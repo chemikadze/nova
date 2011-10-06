@@ -105,6 +105,7 @@ class ExtensionControllerTest(test.TestCase):
             "Volumes",
             "VolumeTypes",
             "Zones",
+            "NetworkAdmin",
             ]
         self.ext_list.sort()
 
